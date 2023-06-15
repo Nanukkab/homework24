@@ -1,0 +1,20 @@
+body{
+    background-color: #F5F5F5;
+    margin: 0;
+
+}
+.box{
+    width: 1550px;
+    height: 532px;
+    background-color: #E64B2F;
+    color: white;
+}
+.div{
+    display: flex;
+}
+.div1{
+    display: flex;
+}
+.div2{
+    display: flex;
+}
